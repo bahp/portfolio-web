@@ -1,0 +1,47 @@
+/*
+.resume .resume-item ul {
+    list-style: '-';
+}*/
+
+.resume .resume-item ul li {
+    padding-bottom: 0px;
+}
+
+/*
+.resume .resume-item ul li:before {
+    content: "-";
+    padding-right: 5px;
+}*/
+
+.resume .resume-item p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.skills .progress {
+    height: 15px;
+    display: flex;
+    width: 100%;
+}
+
+.skills .progress .skill {
+  flex: 2;
+  /*border: 2px solid blueviolet;*/
+  margin: 1px;
+    font-size: 10px;
+    margin-top:-2px;
+}
+
+.skills .progress .progress-bar-wrap {
+  flex: 4;
+  /*border: 2px solid blueviolet;*/
+  margin: 1px;
+}
+
+.skills .progress .val{
+  display:none
+}
+
+.skills-content > div {
+    padding-bottom: 20px;
+}
