@@ -198,7 +198,11 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  /*background: url("../img/hero-bg.jpg") top center;*/
+  /*background: url("../img/backgrounds/technology-concept-background-with-wire-mesh-text-space/14622.jpg") top center;*/
+  /*background: url("../img/backgrounds/abstract-digital-particles-technology-style-background/24915.jpg") top center;*/
+  /*background: url("../img/backgrounds/3959331.jpeg") top center;*/
+  background: url("../img/backgrounds/Software_Configuration_Management_Tools.jpeg") top center;
   background-size: cover;
 }
 #hero:before {
